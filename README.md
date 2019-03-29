@@ -1,2 +1,6 @@
 # hello-word
-Training repository
+
+Hi Humans!
+
+I like doing APL code development.
+I prefer more tea then coffee.
